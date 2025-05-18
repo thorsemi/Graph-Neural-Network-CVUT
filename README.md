@@ -9,3 +9,6 @@ In this assignment, I look into implementing Graph Neural Networks for node clas
 
 # Final Project (GNN_Final_Report) + Video
 In this project, I explored node classification on the PubMed citation network using Graph Convolutional Networks (GCNs). The goal was to predict the subject category of scientific publications based on graph structure and node features. I implemented a two-layer GCN using PyTorch Geometric, applied standard preprocessing, and conducted experiments involving model training, hyperparameter tuning, and embedding visualization. The project also includes analysis using t-SNE, confusion matrices, and inspection of individual prediction cases.
+
+# Video 
+https://drive.google.com/file/d/17GrFAMJ5CoiPRZUNSC8PmmIyV_8lI3Fs/view?usp=drive_link
